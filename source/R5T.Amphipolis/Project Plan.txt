@@ -1,0 +1,4 @@
+R5T.Amphipolis - A Typed<T> types library.
+
+Goals
+
